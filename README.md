@@ -2,9 +2,9 @@
 
 ## I'm a Front-End Web Developer
 
-- 🌱 I’m currently learning Flutter
+<!-- - 🌱 I’m currently learning Flutter -->
 <!-- - 🥅 2021 Goals: Master native mobile frameworks -->
-- ⚡ Fun fact: I don't like to use ;
+<!-- - ⚡ Fun fact: I don't like to use ; -->
 
 ### Connect with me:
 
