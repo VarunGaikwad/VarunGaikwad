@@ -1,4 +1,4 @@
-### Hi there, I'm Varun Gaikwad - aka [PreApeXis] 👋
+### Hi there, I'm Varun Gaikwad 👋
 
 ## I'm a Front-End Web Developer
 
@@ -32,6 +32,7 @@
 ### My mini project:
 
 <a href="https://binary-clock-46bf9.web.app/">1. Binary Clock</a>
+<a href="https://my-todo-app.herokuapp.com/">1. Todo App</a>
 
 [twitter]: https://twitter.com/preapexis
 [instagram]: https://instagram.com/preapexis
