@@ -4,10 +4,10 @@
 
 ### Connect with me:
 
-[<img style="color: white;" align="left" alt="VarunGaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/x.svg" />][twitter]
-[<img style="color: white;" align="left" alt="VarunGaikwad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/linkedin.svg" />][linkedin] 
-[<img style="color: white;" align="left" alt="VarunGaikwad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/instagram.svg" />][instagram]
-[<img style="color: white;" align="left" alt="VarunGaikwad | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/gmail.svg" />][gmail]
+[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/x.svg" />][twitter]
+[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/linkedin.svg" />][linkedin] 
+[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/instagram.svg" />][instagram]
+[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/gmail.svg" />][gmail]
 ---
 ### Languages:
 <img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
