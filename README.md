@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/x.svg" />][twitter]
-[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/linkedin.svg" />][linkedin] 
+[<img style="filter: invert(0);" align="left" alt="VarunGaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/x.svg" />][twitter]
+[<img style="filter: invert(0);" align="left" alt="VarunGaikwad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/linkedin.svg" />][linkedin] 
 [<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/instagram.svg" />][instagram]
 [<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/gmail.svg" />][gmail]
 ---
