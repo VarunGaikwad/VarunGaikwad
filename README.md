@@ -29,9 +29,9 @@
 
 <br />
 
-### My mini project:
+<!--### My mini project:
 
-<!--<a href="https://binary-clock-46bf9.web.app/">1. Binary Clock</a>
+<a href="https://binary-clock-46bf9.web.app/">1. Binary Clock</a>
 <br/>
 <a href="https://my-todo-app.herokuapp.com/">2. Todo App</a>-->
 
