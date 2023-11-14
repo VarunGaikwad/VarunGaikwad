@@ -28,7 +28,7 @@
 <br>
 
 ### Mini Project:
-- [Pokédex](https://pokedex-wine-eight.vercel.app/){:target="_blank"}
+- [Pokédex](https://pokedex-wine-eight.vercel.app/)
 
 [gmail]: mailto:gaikwadvarun23@gmail.com
 [twitter]: https://twitter.com/preapexis
