@@ -25,6 +25,9 @@
 <img align="left" alt="Angular" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Flutter" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
+### Mini Project:
+[Pokédex](https://pokedex-wine-eight.vercel.app/)
+
 [gmail]: mailto:gaikwadvarun23@gmail.com
 [twitter]: https://twitter.com/preapexis
 [instagram]: https://instagram.com/preapexis
