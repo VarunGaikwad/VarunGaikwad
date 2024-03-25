@@ -28,7 +28,7 @@
 <br>
 
 ### Mini Project:
-- [Pokédex](https://pokedex-5i23h068z-varun-gaikwads-projects.vercel.app/)
+- [Pokédex](https://varungaikwad.github.io/pokedex/)
 
 [gmail]: mailto:gaikwadvarun23@gmail.com
 [twitter]: https://twitter.com/preapexis
