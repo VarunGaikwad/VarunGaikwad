@@ -30,6 +30,7 @@
 
 ### Mini Project:
 - [Pokédex](https://varungaikwad.github.io/pokedex/)
+- [Portfolio](https://varungaikwad.github.io/portfolio/)
 
 [gmail]: mailto:gaikwadvarun23@gmail.com
 [twitter]: https://twitter.com/preapexis
