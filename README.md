@@ -31,6 +31,7 @@
 ### Mini Project:
 - [Pokédex](https://varungaikwad.github.io/pokedex/)
 - [Portfolio](https://varungaikwad.github.io/portfolio/)
+- [Skycast](https://sky-cast-9frvl7pl5-varun-gaikwads-projects.vercel.app)
 
 [gmail]: mailto:gaikwadvarun23@gmail.com
 [twitter]: https://twitter.com/preapexis
