@@ -7,7 +7,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 [<img align="left" alt="VarunGaikwad | Portfolio Website" width="40" src="https://avatars.githubusercontent.com/u/32365114?v=4" />][portfolio]
 [<img align="left" alt="VarunGaikwad | Instagram" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" />][instagram]
 [<img align="left" alt="VarunGaikwad | LinkedIn" width="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />][linkedin] 
-[<img align="left" alt="VarunGaikwad | Gmail" width="64" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />][gmail]
+[<img align="left" alt="VarunGaikwad | Gmail" width="32" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />][gmail]
 
 <br>
 
