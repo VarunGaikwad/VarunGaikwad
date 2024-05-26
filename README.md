@@ -13,11 +13,11 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ### Programming language:
 
-<img align="left" alt="JavaScript" width="32" src="https://imgs.search.brave.com/Ejm3Mtq4R2ImDPDkHaNGkbZSqBaaj17obWMj1D8kHLU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZhL0phdmFTY3Jp/cHQtbG9nby5wbmc" />
-<img align="left" alt="TypeScript" width="32" src="https://imgs.search.brave.com/kN5mXneNfRWggsNzxbzs2nh4ubSIvIyUQSDh7krrL5Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGMtd2ViLml0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzEy/L1R5cGVTY3JpcHQt/bG9nby5wbmc" />
+<img align="left" alt="JavaScript" width="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" />
+<img align="left" alt="TypeScript" width="32" src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-typescript-256.png" />
 <img align="left" alt="Dart" width="32" src="https://imgs.search.brave.com/bH5dUCrCHJCR7C6GhiaDwOCithZHWZz3_YI5JT4jQpI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjI4OWNlZjEw/MTRjMGI1ZTQ4NmIu/cG5n" />
-<img align="left" alt="Rust" width="32" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />
-<img align="left" style="margin-top: 5" alt="SQL" width="32" src="https://imgs.search.brave.com/6lHxBgRoJ7Yy405ITGS8dhRMVHPgaXtdT-l8BGSmBM8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NeVNRTC9N/eVNRTC1Mb2dvLndp/bmUuc3Zn.svg" />
+<img align="left" alt="Rust" width="32" src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/512/rust-512.png" />
+<img align="left" alt="SQL" width="32" src="https://cdn3.iconfinder.com/data/icons/file-formats-41/32/file-format-66-512.png" />
 
 <br>
 
