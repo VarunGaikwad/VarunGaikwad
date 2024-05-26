@@ -17,9 +17,7 @@ I specialize in crafting seamless user experiences as a UI/UX Developer.
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img align="left" alt="Dart" width="30px" src="https://img.icons8.com/color/48/000000/dart.png" />
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="Rust" width="30px" src="https://img.icons8.com/color/48/000000/rust.png" />
 <img align="left" alt="SQL" width="30px" src="https://img.icons8.com/color/48/000000/sql.png" />
 
 <br>
@@ -29,6 +27,16 @@ I specialize in crafting seamless user experiences as a UI/UX Developer.
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 <img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
 <img align="left" alt="Flutter" width="30px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img align="left" alt="Node.js" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img align="left" alt="Tailwind CSS" width="30px" src="https://img.icons8.com/color/48/000000/tailwind-css.png" />
+
+<br>
+
+### Tools I Use:
+
+<img align="left" alt="VSCode" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+<img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/material-rounded/96/000000/github.png" />
+<img align="left" alt="Figma" width="30px" src="https://img.icons8.com/color/48/000000/figma--v1.png" />
 
 <br>
 
