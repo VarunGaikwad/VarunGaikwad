@@ -11,7 +11,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 [<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Portfolio Website" width="22px" src="https://avatars.githubusercontent.com/u/32365114?v=4" />][portfolio]
 
 <br>
----
+
 ### Programming language:
 
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
