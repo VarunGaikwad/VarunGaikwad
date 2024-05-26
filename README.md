@@ -4,7 +4,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ### Let's Connect:
 
-[<img align="left" alt="VarunGaikwad | Twitter" width="32" src="https://abs.twimg.com/favicons/twitter.3.ico" />][twitter]
+[<img align="left" alt="VarunGaikwad | Twitter" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-256.png" />][twitter]
 [<img align="left" alt="VarunGaikwad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/linkedin.svg" />][linkedin] 
 [<img align="left" alt="VarunGaikwad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VarunGaikwad | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/gmail.svg" />][gmail]
