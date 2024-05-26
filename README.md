@@ -49,3 +49,9 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 - [Tic Tac Toe](https://varungaikwad.github.io/tic_tac_toe/)
 
 Feel free to drop me a message anytime at [gaikwadvarun23@gmail.com](mailto:gaikwadvarun23@gmail.com)!
+
+[gmail]: mailto:gaikwadvarun23@gmail.com
+[twitter]: https://twitter.com/preapexis
+[instagram]: https://instagram.com/preapexis
+[linkedin]: https://www.linkedin.com/in/varun-gaikwad
+[portfolio]: https://varungaikwad.github.io/portfolio/
