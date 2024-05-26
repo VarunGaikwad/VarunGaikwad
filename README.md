@@ -28,7 +28,6 @@ I specialize in crafting seamless user experiences as a UI/UX Developer.
 <img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
 <img align="left" alt="Flutter" width="30px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 <img align="left" alt="Node.js" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" alt="Tailwind CSS" width="30px" src="https://img.icons8.com/color/48/000000/tailwind-css.png" />
 
 <br>
 
