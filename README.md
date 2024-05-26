@@ -12,7 +12,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ---
 
-### Languages I Speak:
+### Programming language:
 
 <img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://img.icons8.com/color/48/000000/typescript.png" />
@@ -22,7 +22,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 <br>
 
-### Frameworks I Work With:
+### Framework:
 
 <img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
 <img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
@@ -31,7 +31,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 <br>
 
-### Tools I Use:
+### Tools:
 
 <img align="left" alt="VSCode" width="30px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/material-rounded/96/000000/github.png" />
