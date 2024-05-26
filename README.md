@@ -4,7 +4,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ### Let's Connect:
 
-[![Twitter](https://img.shields.io/badge/-VarunGaikwad-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/preapexis)
+[![Twitter](https://abs.twimg.com/responsive-web/client-web/icon-svg.ea5ff4aa.svg)](https://twitter.com/preapexis)
 [![LinkedIn](https://img.shields.io/badge/-VarunGaikwad-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-gaikwad)
 [![Instagram](https://img.shields.io/badge/-VarunGaikwad-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/preapexis)
 [![Gmail](https://img.shields.io/badge/-VarunGaikwad-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaikwadvarun23@gmail.com)
