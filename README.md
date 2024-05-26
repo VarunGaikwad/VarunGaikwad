@@ -4,11 +4,12 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ### Let's Connect:
 
-[![Twitter](https://abs.twimg.com/responsive-web/client-web/icon-svg.ea5ff4aa.svg)](https://twitter.com/preapexis)
-[![LinkedIn](https://img.shields.io/badge/-VarunGaikwad-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-gaikwad)
-[![Instagram](https://img.shields.io/badge/-VarunGaikwad-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/preapexis)
-[![Gmail](https://img.shields.io/badge/-VarunGaikwad-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaikwadvarun23@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://varungaikwad.github.io/portfolio/)
+[<img style="filter: invert(0);" align="left" alt="VarunGaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/x.svg" />][twitter]
+[<img style="filter: invert(0);" align="left" alt="VarunGaikwad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/linkedin.svg" />][linkedin] 
+[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/instagram.svg" />][instagram]
+[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/gmail.svg" />][gmail]
+[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Portfolio Website" width="22px" src="https://avatars.githubusercontent.com/u/32365114?v=4" />][portfolio]
+
 
 ---
 
