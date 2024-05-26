@@ -1,6 +1,6 @@
 ### Hey there, I'm Varun Gaikwad! 👋
 
-I specialize in crafting seamless user experiences as a UI/UX Developer.
+Highly skilled Full-Stack Web Developer with extensive experience in creating dynamic and responsive web applications using JavaScript, TypeScript, React, and Angular. Demonstrated ability to improve system performance and deliver high-quality solutions. Proficient in translating complex technical concepts into clear, actionable recommendations. Strong team collaborator with a proven track record of contributing to successful project outcomes.
 
 ### Let's Connect:
 
