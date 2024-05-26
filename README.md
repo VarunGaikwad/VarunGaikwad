@@ -10,7 +10,6 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 [<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/gmail.svg" />][gmail]
 [<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Portfolio Website" width="22px" src="https://avatars.githubusercontent.com/u/32365114?v=4" />][portfolio]
 
-<br/>
 ---
 
 ### Programming language:
