@@ -13,11 +13,11 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ### Programming language:
 
-<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
-<img align="left" alt="TypeScript" width="30px" src="https://img.icons8.com/color/48/000000/typescript.png" />
-<img align="left" alt="Dart" width="30px" src="https://img.icons8.com/color/48/000000/dart.png" />
-<img align="left" alt="Rust" width="30px" src="https://img.icons8.com/color/48/000000/rust.png" />
-<img align="left" alt="SQL" width="30px" src="https://img.icons8.com/color/48/000000/sql.png" />
+<img align="left" alt="JavaScript" width="32" src="https://imgs.search.brave.com/Ejm3Mtq4R2ImDPDkHaNGkbZSqBaaj17obWMj1D8kHLU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZhL0phdmFTY3Jp/cHQtbG9nby5wbmc" />
+<img align="left" alt="TypeScript" width="32" src="https://imgs.search.brave.com/kN5mXneNfRWggsNzxbzs2nh4ubSIvIyUQSDh7krrL5Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dGMtd2ViLml0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzEy/L1R5cGVTY3JpcHQt/bG9nby5wbmc" />
+<img align="left" alt="Dart" width="32" src="https://imgs.search.brave.com/bH5dUCrCHJCR7C6GhiaDwOCithZHWZz3_YI5JT4jQpI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZjI4OWNlZjEw/MTRjMGI1ZTQ4NmIu/cG5n" />
+<img align="left" alt="Rust" width="32" src="https://imgs.search.brave.com/hjs6s1e6IAlfU30MnOvS9MGo5LA6GjeTZT5gv53sk-4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzE1OTE2NTgzL3Iv/aWwvZWJlYWIwLzQx/NTkwOTQ1NzIvaWxf/NjAweDYwMC40MTU5/MDk0NTcyX2dmazAu/anBn" />
+<img align="left" alt="SQL" width="32" src="https://imgs.search.brave.com/wBvcOI6LvUpZzmjxecPeuIKwLmDKxp1NLWJt6dxAxag/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wNy5o/aWNsaXBhcnQuY29t/L3ByZXZpZXcvMTM0/LzE5MC80MzgvbWlj/cm9zb2Z0LXNxbC1z/ZXJ2ZXItbXlzcWwt/ZGF0YWJhc2UtbG9n/by1vdGhlcnMuanBn" />
 
 <br>
 
