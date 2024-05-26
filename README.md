@@ -1,41 +1,43 @@
-### Hi there, I'm Varun Gaikwad 👋
+### Hey there, I'm Varun Gaikwad! 👋
 
-## I'm a UI/UX Developer
+I specialize in crafting seamless user experiences as a UI/UX Developer.
 
-### Connect with me:
+### Let's Connect:
 
-[<img style="filter: invert(0);" align="left" alt="VarunGaikwad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/x.svg" />][twitter]
-[<img style="filter: invert(0);" align="left" alt="VarunGaikwad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/linkedin.svg" />][linkedin] 
-[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/instagram.svg" />][instagram]
-[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.19.0/icons/gmail.svg" />][gmail]
-[<img style="filter: invert(1);" align="left" alt="VarunGaikwad | Portfolio Website" width="22px" src="https://avatars.githubusercontent.com/u/32365114?v=4" />][portfolio]
+[![Twitter](https://img.shields.io/badge/-VarunGaikwad-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/preapexis)
+[![LinkedIn](https://img.shields.io/badge/-VarunGaikwad-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-gaikwad)
+[![Instagram](https://img.shields.io/badge/-VarunGaikwad-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/preapexis)
+[![Gmail](https://img.shields.io/badge/-VarunGaikwad-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaikwadvarun23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://varungaikwad.github.io/portfolio/)
+
 ---
-### Languages:
-<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Dart" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Python" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Java" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+### Languages I Speak:
+
+<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" alt="TypeScript" width="30px" src="https://img.icons8.com/color/48/000000/typescript.png" />
+<img align="left" alt="Dart" width="30px" src="https://img.icons8.com/color/48/000000/dart.png" />
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="SQL" width="30px" src="https://img.icons8.com/color/48/000000/sql.png" />
 
 <br>
 
-### Framework:
-<img align="left" alt="React" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Flutter" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+### Frameworks I Work With:
+
+<img align="left" alt="React" width="30px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
+<img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
+<img align="left" alt="Flutter" width="30px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 
 <br>
 
-### Mini Project:
+### Check Out My Personal Projects:
+
 - [Pokédex](https://varungaikwad.github.io/pokedex/)
 - [Portfolio](https://varungaikwad.github.io/portfolio/)
 - [Skycast](https://sky-cast-9frvl7pl5-varun-gaikwads-projects.vercel.app)
 - [FavvyVision (API)](https://favvyvision.onrender.com)
+- [Tic Tac Toe](https://varungaikwad.github.io/tic_tac_toe/)
 
-[gmail]: mailto:gaikwadvarun23@gmail.com
-[twitter]: https://twitter.com/preapexis
-[instagram]: https://instagram.com/preapexis
-[linkedin]: https://www.linkedin.com/in/varun-gaikwad
-[portfolio]: https://varungaikwad.github.io/portfolio/
+Feel free to drop me a message anytime at [gaikwadvarun23@gmail.com](mailto:gaikwadvarun23@gmail.com)!
