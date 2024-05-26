@@ -23,10 +23,10 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ### Framework:
 
-<img align="left" alt="React" width="32" src="https://img.icons8.com/plasticine/100/000000/react.png" />
-<img align="left" alt="Angular" width="32" src="https://img.icons8.com/color/48/000000/angularjs.png" />
-<img align="left" alt="Flutter" width="32" src="https://img.icons8.com/color/48/000000/flutter.png" />
-<img align="left" alt="Node.js" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img align="left" alt="React" width="32" src="https://imgs.search.brave.com/vcGB6fxuCDGNHovz0Gil79dqEtsJtM-ytHY5kRmjJ1c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ3L1JlYWN0LnN2/Zw.svg" />
+<img align="left" alt="Angular" width="32" src="https://imgs.search.brave.com/Y546hFjlsaj7n2MHRYo-lwl9x8Tp00O97TQJOkhtxO4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZWEyMmNlZjEw/MTRjMGI1ZTQ4MzMu/cG5n" />
+<img align="left" alt="Flutter" width="32" src="https://imgs.search.brave.com/5eEMjuuqDoNYqfsDEDA5syyrct1UAPJLCT42bsxL63M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mbHV0dGVyLnN2/Zw.svg" />
+<img align="left" alt="Node.js" width="32" src="https://imgs.search.brave.com/YCrguU05HM-b6HNYo5pnX0ZZJJQM0lZcHb7u0qI9NPE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9ub2RlanMtMS5z/dmc.svg" />
 
 <br>
 
