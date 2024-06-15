@@ -44,6 +44,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 - [Skycast](https://sky-cast-9frvl7pl5-varun-gaikwads-projects.vercel.app)
 - [FavvyVision (API)](https://favvyvision.onrender.com)
 - [Tic Tac Toe](https://varungaikwad.github.io/tic_tac_toe/)
+- [Guess The Color?](https://varungaikwad.github.io/guess_the_color/)
 
 Feel free to drop me a message anytime at [gaikwadvarun23@gmail.com](mailto:gaikwadvarun23@gmail.com)!
 
