@@ -40,6 +40,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 ### Check Out My Personal Projects:
 
 - [Pokédex](https://varungaikwad.github.io/pokedex/)
+- [Todo Kanban](https://varungaikwad.github.io/drag-and-drop-todo/)
 - [Portfolio](https://varungaikwad.github.io/portfolio/)
 - [Skycast](https://sky-cast-9frvl7pl5-varun-gaikwads-projects.vercel.app)
 - [FavvyVision (API)](https://favvyvision.onrender.com)
