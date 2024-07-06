@@ -46,6 +46,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 - [FavvyVision (API)](https://favvyvision.onrender.com)
 - [Tic Tac Toe](https://varungaikwad.github.io/tic_tac_toe/)
 - [Guess The Color?](https://varungaikwad.github.io/guess_the_color/)
+- [Tesla Clone](https://varungaikwad.github.io/tesla-clone/)
 
 Feel free to drop me a message anytime at [gaikwadvarun23@gmail.com](mailto:gaikwadvarun23@gmail.com)!
 
