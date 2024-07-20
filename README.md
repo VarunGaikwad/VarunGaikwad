@@ -24,7 +24,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 <img align="left" alt="React" width="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <img align="left" alt="Angular" width="32" src="https://imgs.search.brave.com/Y546hFjlsaj7n2MHRYo-lwl9x8Tp00O97TQJOkhtxO4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZWEyMmNlZjEw/MTRjMGI1ZTQ4MzMu/cG5n" />
-<img align="left" alt="Flutter" width="30" src="https://imgs.search.brave.com/5eEMjuuqDoNYqfsDEDA5syyrct1UAPJLCT42bsxL63M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mbHV0dGVyLnN2/Zw.svg" />
+<img align="left" alt="Flutter" width="30" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" />
 <img align="left" alt="Node.js" width="32" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-256.png" />
 
 <br>
