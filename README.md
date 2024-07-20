@@ -22,7 +22,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ### Framework:
 
-<img align="left" alt="React" width="32" src="https://imgs.search.brave.com/vcGB6fxuCDGNHovz0Gil79dqEtsJtM-ytHY5kRmjJ1c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ3L1JlYWN0LnN2/Zw.svg" />
+<img align="left" alt="React" width="32" src="[https://imgs.search.brave.com/vcGB6fxuCDGNHovz0Gil79dqEtsJtM-ytHY5kRmjJ1c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy80/LzQ3L1JlYWN0LnN2/Zw.svg](https://imgs.search.brave.com/FihthY8hMrxn60mcDaOWs6cpLeU5olROkI4hra30AuQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1JlYWN0LWlj/b24uc3Zn)" />
 <img align="left" alt="Angular" width="32" src="https://imgs.search.brave.com/Y546hFjlsaj7n2MHRYo-lwl9x8Tp00O97TQJOkhtxO4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZWEyMmNlZjEw/MTRjMGI1ZTQ4MzMu/cG5n" />
 <img align="left" alt="Flutter" width="30" src="https://imgs.search.brave.com/5eEMjuuqDoNYqfsDEDA5syyrct1UAPJLCT42bsxL63M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9mbHV0dGVyLnN2/Zw.svg" />
 <img align="left" alt="Node.js" width="32" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-256.png" />
