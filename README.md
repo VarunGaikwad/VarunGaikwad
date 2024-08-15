@@ -39,8 +39,8 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 ## 🌟 Personal Projects
 
-| Project Name  | Description | Live Demo | Repository |
-| ------------- |:------------|:----------|:-----------|
+| Project Name  | Description | Live Demo |
+| ------------- |:------------|:----------|
 | **Pokédex**   | A simple Pokédex app to look up Pokémon data. | [Live Demo](https://varungaikwad.github.io/pokedex/) |
 | **Color Palette** | A color palette generator for designers and developers. | [Live Demo](https://varungaikwad.github.io/color-generator/) |
 | **Desserts App** | A desserts recipe app for sweet tooth enthusiasts. | [Live Demo](https://varungaikwad.github.io/desserts-app/) |
