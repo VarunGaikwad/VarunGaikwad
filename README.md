@@ -37,45 +37,45 @@ I'm a **Full-Stack Web Developer** with a passion for creating dynamic and respo
 
 <br>
 
-# Projects Portfolio
+### Projects Portfolio
 
 Explore some of the projects I've worked on, ranging from fun games to useful applications. Each project includes a brief description and a link to a live demo.
 
-## Featured Projects
+#### Featured Projects
 
-### 1. **Pokédex**
+#### 1. **Pokédex**
    - **Description:** A simple Pokédex app to look up Pokémon data.
    - **Live Demo:** [Pokédex](https://varungaikwad.github.io/pokedex/)
 
-### 2. **Color Palette**
+#### 2. **Color Palette**
    - **Description:** A color palette generator for designers and developers.
    - **Live Demo:** *Currently Unavailable*
 
-### 3. **Desserts App**
+#### 3. **Desserts App**
    - **Description:** A desserts recipe app for sweet tooth enthusiasts.
    - **Live Demo:** [Desserts App](https://varungaikwad.github.io/desserts-app/)
 
-### 4. **Todo Kanban**
+#### 4. **Todo Kanban**
    - **Description:** A Kanban-style task management app with drag and drop functionality.
    - **Live Demo:** [Todo Kanban](https://varungaikwad.github.io/drag-and-drop-todo/)
 
-### 5. **Portfolio**
+#### 5. **Portfolio**
    - **Description:** My personal portfolio showcasing my skills and projects.
    - **Live Demo:** [Portfolio](https://varungaikwad.github.io/portfolio/)
 
-### 6. **Skycast**
+#### 6. **Skycast**
    - **Description:** A weather app providing real-time forecasts.
    - **Live Demo:** [Skycast](https://sky-cast-9frvl7pl5-varun-gaikwads-projects.vercel.app)
 
-### 7. **FavvyVision (API)**
+#### 7. **FavvyVision (API)**
    - **Description:** A custom API for favorite movie recommendations.
    - **Live Demo:** [FavvyVision API](https://favvyvision.onrender.com)
 
-### 8. **Tic Tac Toe**
+#### 8. **Tic Tac Toe**
    - **Description:** The classic Tic Tac Toe game with a modern twist.
    - **Live Demo:** [Tic Tac Toe](https://varungaikwad.github.io/tic_tac_toe/)
 
-### 9. **Guess The Color?**
+#### 9. **Guess The Color?**
    - **Description:** A fun game to guess the correct color based on RGB values.
    - **Live Demo:** [Guess The Color?](https://varungaikwad.github.io/guess_the_color/)
 
