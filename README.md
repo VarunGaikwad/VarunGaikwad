@@ -40,6 +40,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 ### Check Out My Personal Projects:
 
 - [Pokédex](https://varungaikwad.github.io/pokedex/)
+- [Color Palette](https://varungaikwad.github.io/color-generator/)
 - [Desserts App](https://varungaikwad.github.io/desserts-app/)
 - [Todo Kanban](https://varungaikwad.github.io/drag-and-drop-todo/)
 - [Portfolio](https://varungaikwad.github.io/portfolio/)
