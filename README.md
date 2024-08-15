@@ -1,6 +1,6 @@
-### Hey there, I'm Varun Gaikwad! 👋
+### Hi there, I'm Varun Gaikwad! 👋
 
-Highly skilled Full-Stack Web Developer with extensive experience in creating dynamic and responsive web applications using JavaScript, TypeScript, React, and Angular. Demonstrated ability to improve system performance and deliver high-quality solutions. Proficient in translating complex technical concepts into clear, actionable recommendations. Strong team collaborator with a proven track record of contributing to successful project outcomes.
+I'm a **Full-Stack Web Developer** with a passion for creating dynamic and responsive web applications. My expertise spans across **JavaScript, TypeScript, React, Angular,** and more. I’m dedicated to optimizing system performance and consistently delivering high-quality solutions. With a knack for simplifying complex technical concepts, I provide clear, actionable recommendations that drive results. I'm also a strong team player, contributing to successful project outcomes and continuously seeking opportunities to collaborate.
 
 ### Let's Connect:
 
@@ -10,7 +10,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 <br>
 
-### Programming language:
+### Programming Languages:
 
 <img align="left" alt="JavaScript" width="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" />
 <img align="left" alt="TypeScript" width="32" src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-typescript-256.png" />
@@ -20,7 +20,7 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 <br>
 
-### Framework:
+### Frameworks:
 
 <img align="left" alt="React" width="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <img align="left" alt="Angular" width="32" src="https://imgs.search.brave.com/Y546hFjlsaj7n2MHRYo-lwl9x8Tp00O97TQJOkhtxO4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy81/ODQ3ZWEyMmNlZjEw/MTRjMGI1ZTQ4MzMu/cG5n" />
@@ -84,7 +84,6 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
 Feel free to drop me a message anytime at [gaikwadvarun23@gmail.com](mailto:gaikwadvarun23@gmail.com)!
 
 [gmail]: mailto:gaikwadvarun23@gmail.com
-[twitter]: https://twitter.com/preapexis
 [instagram]: https://instagram.com/preapexis
 [linkedin]: https://www.linkedin.com/in/varun-gaikwad
 [portfolio]: https://varungaikwad.github.io/portfolio/
