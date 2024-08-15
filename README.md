@@ -49,7 +49,7 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
 
 #### 2. **Color Palette**
    - **Description:** A color palette generator for designers and developers.
-   - **Live Demo:** *Currently Unavailable*
+   - **Live Demo:** [Color Palette](https://varungaikwad.github.io/color-generator/)
 
 #### 3. **Desserts App**
    - **Description:** A desserts recipe app for sweet tooth enthusiasts.
