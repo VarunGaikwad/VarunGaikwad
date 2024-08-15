@@ -37,18 +37,21 @@ Highly skilled Full-Stack Web Developer with extensive experience in creating dy
 
 <br>
 
-### Check Out My Personal Projects:
+## 🌟 Personal Projects
 
-- [Pokédex](https://varungaikwad.github.io/pokedex/)
-- [Color Palette](https://varungaikwad.github.io/color-generator/)
-- [Desserts App](https://varungaikwad.github.io/desserts-app/)
-- [Todo Kanban](https://varungaikwad.github.io/drag-and-drop-todo/)
-- [Portfolio](https://varungaikwad.github.io/portfolio/)
-- [Skycast](https://sky-cast-9frvl7pl5-varun-gaikwads-projects.vercel.app)
-- [FavvyVision (API)](https://favvyvision.onrender.com)
-- [Tic Tac Toe](https://varungaikwad.github.io/tic_tac_toe/)
-- [Guess The Color?](https://varungaikwad.github.io/guess_the_color/)
-- [Tesla Clone](https://varungaikwad.github.io/tesla-clone/)
+| Project Name  | Description | Live Demo | Repository |
+| ------------- |:------------|:----------|:-----------|
+| **Pokédex**   | A simple Pokédex app to look up Pokémon data. | [Live Demo](https://varungaikwad.github.io/pokedex/) | - |
+| **Color Palette** | A color palette generator for designers and developers. | [Live Demo](https://varungaikwad.github.io/color-generator/) | - |
+| **Desserts App** | A desserts recipe app for sweet tooth enthusiasts. | [Live Demo](https://varungaikwad.github.io/desserts-app/) | - |
+| **Todo Kanban** | A Kanban-style task management app with drag and drop functionality. | [Live Demo](https://varungaikwad.github.io/drag-and-drop-todo/) | - |
+| **Portfolio** | My personal portfolio showcasing my skills and projects. | [Live Demo](https://varungaikwad.github.io/portfolio/) | - |
+| **Skycast** | A weather app providing real-time forecasts. | [Live Demo](https://sky-cast-9frvl7pl5-varun-gaikwads-projects.vercel.app) | - |
+| **FavvyVision (API)** | A custom API for favorite movie recommendations. | [Live Demo](https://favvyvision.onrender.com) | - |
+| **Tic Tac Toe** | The classic Tic Tac Toe game with a modern twist. | [Live Demo](https://varungaikwad.github.io/tic_tac_toe/) | - |
+| **Guess The Color?** | A fun game to guess the correct color based on RGB values. | [Live Demo](https://varungaikwad.github.io/guess_the_color/) | - |
+
+---
 
 Feel free to drop me a message anytime at [gaikwadvarun23@gmail.com](mailto:gaikwadvarun23@gmail.com)!
 
