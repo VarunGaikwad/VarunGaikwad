@@ -79,6 +79,10 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
    - **Description:** A fun game to guess the correct color based on RGB values.
    - **Live Demo:** [Guess The Color?](https://varungaikwad.github.io/guess_the_color/)
 
+#### 10. **Age Calculator**
+   - **Description:** Calculate your age.
+   - **Live Demo:** [Age Calculator](https://varungaikwad.github.io/age_calculator/)
+
 ---
 
 Feel free to drop me a message anytime at [gaikwadvarun23@gmail.com](mailto:gaikwadvarun23@gmail.com)!
