@@ -63,9 +63,9 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
    - **Description:** My personal portfolio showcasing my skills and projects.
    - **Live Demo:** [Portfolio](https://varungaikwad.github.io/portfolio/)
 
-#### 6. **Skycast**
+#### 6. **TempMate**
    - **Description:** A weather app providing real-time forecasts.
-   - **Live Demo:** [Skycast](https://sky-cast-9frvl7pl5-varun-gaikwads-projects.vercel.app)
+   - **Live Demo:** [TempMate](https://varungaikwad.github.io/temp-mate/)
 
 #### 7. **FavvyVision (API)**
    - **Description:** A custom API for favorite movie recommendations.
