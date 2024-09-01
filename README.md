@@ -47,15 +47,19 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
    - **Description:** A simple Pokédex app to look up Pokémon data.
    - **Live Demo:** [Pokédex](https://varungaikwad.github.io/pokedex/)
 
-#### 2. **Color Palette**
+#### 2. **Weather Leaderboard**
+   - **Description:** A weather leaderboard application that displays the current weather and time for different cities, ranking them based on their temperature.
+   - **Live Demo:** [Weather Leaderboard](https://weather-leaderboard.onrender.com/)
+
+#### 3. **Color Palette**
    - **Description:** A color palette generator for designers and developers.
    - **Live Demo:** [Color Palette](https://varungaikwad.github.io/color-generator/)
 
-#### 3. **Desserts App**
+#### 4. **Desserts App**
    - **Description:** A desserts recipe app for sweet tooth enthusiasts.
    - **Live Demo:** [Desserts App](https://varungaikwad.github.io/desserts-app/)
 
-#### 4. **Todo Kanban**
+#### 5. **Todo Kanban**
    - **Description:** A Kanban-style task management app with drag and drop functionality.
    - **Live Demo:** [Todo Kanban](https://varungaikwad.github.io/drag-and-drop-todo/)
 
@@ -63,23 +67,23 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
    - **Description:** My personal portfolio showcasing my skills and projects.
    - **Live Demo:** [Portfolio](https://varungaikwad.github.io/portfolio/)
 
-#### 6. **TempMate**
+#### 7. **TempMate**
    - **Description:** A weather app providing real-time forecasts.
    - **Live Demo:** [TempMate](https://varungaikwad.github.io/temp-mate/)
 
-#### 7. **FavvyVision (API)**
+#### 8. **FavvyVision (API)**
    - **Description:** A custom API for favorite movie recommendations.
    - **Live Demo:** [FavvyVision API](https://favvyvision.onrender.com)
 
-#### 8. **Tic Tac Toe**
+#### 9. **Tic Tac Toe**
    - **Description:** The classic Tic Tac Toe game with a modern twist.
    - **Live Demo:** [Tic Tac Toe](https://varungaikwad.github.io/tic_tac_toe/)
 
-#### 9. **Guess The Color?**
+#### 10. **Guess The Color?**
    - **Description:** A fun game to guess the correct color based on RGB values.
    - **Live Demo:** [Guess The Color?](https://varungaikwad.github.io/guess_the_color/)
 
-#### 10. **Age Calculator**
+#### 11. **Age Calculator**
    - **Description:** Calculate your age.
    - **Live Demo:** [Age Calculator](https://varungaikwad.github.io/age_calculator/)
 
