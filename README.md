@@ -43,29 +43,29 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
 
 #### Featured Projects
 
-#### 1. **Pokédex**
+#### 1. **Portfolio**
+   - **Description:** My personal portfolio showcasing my skills and projects.
+   - **Live Demo:** [Portfolio](https://portfolio-drab-nine-70.vercel.app/)
+
+#### 2. **Pokédex**
    - **Description:** A simple Pokédex app to look up Pokémon data.
    - **Live Demo:** [Pokédex](https://varungaikwad.github.io/pokedex/)
 
-#### 2. **Weather Leaderboard**
+#### 3. **Weather Leaderboard**
    - **Description:** A weather leaderboard application that displays the current weather and time for different cities, ranking them based on their temperature.
    - **Live Demo:** [Weather Leaderboard](https://weather-leaderboard.onrender.com/)
 
-#### 3. **Color Palette**
+#### 4. **Color Palette**
    - **Description:** A color palette generator for designers and developers.
    - **Live Demo:** [Color Palette](https://varungaikwad.github.io/color-generator/)
 
-#### 4. **Desserts App**
+#### 5. **Desserts App**
    - **Description:** A desserts recipe app for sweet tooth enthusiasts.
    - **Live Demo:** [Desserts App](https://varungaikwad.github.io/desserts-app/)
 
-#### 5. **Todo Kanban**
+#### 6. **Todo Kanban**
    - **Description:** A Kanban-style task management app with drag and drop functionality.
    - **Live Demo:** [Todo Kanban](https://varungaikwad.github.io/drag-and-drop-todo/)
-
-#### 5. **Portfolio**
-   - **Description:** My personal portfolio showcasing my skills and projects.
-   - **Live Demo:** [Portfolio](https://varungaikwad.github.io/portfolio/)
 
 #### 7. **TempMate**
    - **Description:** A weather app providing real-time forecasts.
