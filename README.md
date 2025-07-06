@@ -49,7 +49,7 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
 
 #### 2. **Pokédex**
    - **Description:** A simple Pokédex app to look up Pokémon data.
-   - **Live Demo:** [Pokédex](https://varungaikwad.github.io/pokedex/](https://pokedex-three-bay-40.vercel.app)
+   - **Live Demo:** [Pokédex](https://pokedex-three-bay-40.vercel.app)
 
 #### 3. **Weather Leaderboard**
    - **Description:** A weather leaderboard application that displays the current weather and time for different cities, ranking them based on their temperature.
