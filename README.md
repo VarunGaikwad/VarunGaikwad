@@ -43,6 +43,10 @@ Explore some of the projects I've worked on, ranging from fun games to useful ap
 
 #### Featured Projects
 
+#### 1. **Office Suite**
+   - **Description:** A simple translator application.
+   - **Live Demo:** [Office Suite](https://office-suit.vercel.app)
+
 #### 1. **Portfolio**
    - **Description:** My personal portfolio showcasing my skills and projects.
    - **Live Demo:** [Portfolio](https://portfolio-drab-nine-70.vercel.app/)
