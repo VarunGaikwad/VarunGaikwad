@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "version": 1,
+    "exportedAt": "2026-06-04T01:29:16.370Z"
+  },
+  "$schema": "https://app.kilo.ai/config.json",
+  "disabled_providers": [],
+  "provider": {
+    "honda-anthropic": {
+      "name": "Honda Anthropic",
+      "npm": "@ai-sdk/openai-compatible",
+      "options": {
+        "baseURL": "http://localhost:9000/v1"
+      },
+      "models": {
+        "honda/claude-haiku-4-5": {
+          "name": "Honda Haiku 4.5"
+        }
+      }
+    }
+  },
+  "instructions": [
+    "C:\\Users\\J0986978\\.config\\kilo\\rules\\global.md"
+  ],
+  "permission": {
+    "read": "allow",
+    "edit": "allow",
+    "webfetch": "ask",
+    "bash": {
+      "*": "ask",
+      "npm *": "allow",
+      "pnpm *": "allow",
+      "bun *": "allow",
+      "yarn *": "allow",
+      "npx *": "allow",
+      "vite *": "allow",
+      "tsc *": "allow",
+      "eslint *": "allow",
+      "prettier *": "allow",
+      "git status": "allow",
+      "git diff": "allow",
+      "git log": "allow",
+      "git add *": "ask",
+      "git commit *": "ask",
+      "git push *": "ask",
+      "go build *": "allow",
+      "go test *": "allow",
+      "go run *": "allow",
+      "golangci-lint *": "allow",
+      "pytest *": "allow",
+      "pip *": "allow",
+      "./mvnw *": "allow",
+      "mvn *": "allow",
+      "./gradlew *": "allow",
+      "gradle *": "allow",
+      "docker compose *": "allow",
+      "docker-compose *": "allow",
+      "turbo *": "allow",
+      "ls *": "allow",
+      "cat *": "allow",
+      "grep *": "allow",
+      "find *": "allow"
+    }
+  },
+  "auto_collapse_reasoning": true,
+  "terminal_command_display": "collapsed",
+  "experimental": {
+    "codebase_search": true,
+    "batch_tool": true,
+    "disable_paste_summary": false,
+    "mcp_timeout": 30000,
+    "openTelemetry": true
+  },
+  "indexing": {
+    "enabled": false,
+    "provider": "openrouter",
+    "model": "gpt-oss-120b:free",
+    "openrouter": {
+      "apiKey": "XXX",
+      "specificProvider": "openai"
+    }
+  },
+  "model": "honda-anthropic/honda/claude-haiku-4-5",
+  "small_model": "honda-anthropic/honda/claude-haiku-4-5",
+  "subagent_model": "honda-anthropic/honda/claude-haiku-4-5",
+  "agent": {
+    "code": {
+      "model": "kilo/poolside/laguna-m.1:free",
+      "options": {},
+      "permission": {}
+    }
+  },
+  "watcher": {
+    "ignore": [
+      "**/node_modules/**",
+      "**/dist/**",
+      "**/build/**",
+      "**/.vite/**",
+      "**/coverage/**",
+      "**/.next/**",
+      "**/target/**",
+      "**/.gradle/**",
+      "**/__pycache__/**",
+      "**/.pytest_cache/**",
+      "**/.venv/**",
+      "**/venv/**",
+      "**/.git/**",
+      "**/.turbo/**",
+      "**/.cache/**"
+    ]
+  },
+  "compaction": {
+    "auto": true,
+    "prune": true,
+    "threshold_percent": 90
+  },
+  "username": "Varun"
+}
