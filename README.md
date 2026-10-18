@@ -25,6 +25,17 @@ I use **AI-assisted coding** to explore solutions, write and refine code, and de
 - **Collaborate** — Share ideas, communicate clearly, and build better together.
 - **Work with AI** — Combine prompt engineering and AI-assisted development with hands-on coding.
 
+## Featured project
+
+### 🌤️ Skycast
+
+A responsive weather dashboard with city search, location-based forecasts, hourly trends, and a seven-day outlook.
+
+**Built with:** Next.js · React · TypeScript · Open-Meteo
+
+[![Source code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunGaikwad/sky-cast)
+[![Live demo](https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://sky-cast-six.vercel.app)
+
 ## My toolkit
 
 ### Web development
