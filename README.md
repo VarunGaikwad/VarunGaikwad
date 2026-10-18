@@ -40,6 +40,7 @@ A responsive weather dashboard with city search, location-based forecasts, hourl
 
 A Pokémon field guide with search by name or number, type and generation filters, and shiny artwork.
 
+[![Source code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunGaikwad/pokedex)
 [![Live demo](https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://pokedex-beta-flame-95.vercel.app/)
 
 ### 🧩 FavvyVision
@@ -48,6 +49,7 @@ A favicon API that fetches icons by domain through a simple GET request, using G
 
 **Built with:** Node.js · Express
 
+[![Source code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunGaikwad/favvyvision)
 [![Live demo](https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://favvyvision.vercel.app/)
 
 ### 📦 Piexis
