@@ -1,23 +1,54 @@
+<div align="center">
+
 # Hi, I'm Varun Gaikwad 👋
 
-**Full-Stack Web Developer** focused on building responsive, performant web applications.
+### Full-Stack Web Developer & Prompt Engineer
 
-I work with JavaScript, TypeScript, React, Angular, and Node.js to turn ideas into practical, user-friendly experiences. I enjoy simplifying complex problems, improving application performance, and collaborating with others to deliver thoughtful solutions.
+Building responsive interfaces. Simplifying complex problems. Making the web work better.
 
-## Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-gaikwad)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwadvarun23@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/preapexis)
 
-| Category | Technologies |
-| --- | --- |
-| Languages | JavaScript, TypeScript, Dart, Rust, SQL |
-| Frontend | React, Angular |
-| Backend | Node.js |
-| Cross-platform | Flutter |
-| Tools | Visual Studio Code, GitHub, Figma |
+</div>
 
-## Let's Connect
+---
 
-I'm always happy to connect, exchange ideas, and explore opportunities to collaborate.
+## A little about me
 
-- [LinkedIn](https://www.linkedin.com/in/varun-gaikwad)
-- [Instagram](https://instagram.com/preapexis)
-- [Email](mailto:gaikwadvarun23@gmail.com)
+I work as a **Full-Stack Web Developer and Prompt Engineer**, building web applications with **JavaScript, TypeScript, React, Angular, and Node.js**—with a focus on performance and a thoughtful user experience.
+
+I use **AI-assisted coding** to explore solutions, write and refine code, and debug applications. I craft clear, structured prompts to guide AI tools toward useful, reliable results.
+
+- **Build** — Responsive, user-friendly applications.
+- **Refine** — Simplify complex problems and improve application performance.
+- **Collaborate** — Share ideas, communicate clearly, and build better together.
+- **Work with AI** — Combine prompt engineering and AI-assisted development with hands-on coding.
+
+## My toolkit
+
+### Web development
+
+![Web development: JavaScript, TypeScript, React, Angular, Node.js](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs&perline=5)
+
+### Beyond the web
+
+![Additional languages and frameworks: Dart, Flutter, Rust](https://skillicons.dev/icons?i=dart,flutter,rust&perline=3)
+
+**Also working with:** SQL
+
+### Everyday tools
+
+![Tools: Visual Studio Code, GitHub, Figma](https://skillicons.dev/icons?i=vscode,github,figma&perline=3)
+
+---
+
+<div align="center">
+
+### Have an idea? Let's talk.
+
+Always happy to exchange ideas and explore opportunities to collaborate.
+
+**[Say hello →](mailto:gaikwadvarun23@gmail.com)**
+
+</div>
