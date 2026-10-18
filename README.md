@@ -56,6 +56,7 @@ A favicon API that fetches icons by domain through a simple GET request, using G
 
 Extensions, skills, prompts, and themes for pi.
 
+[![Source code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunGaikwad/piexis)
 [![npm package](https://img.shields.io/badge/npm_Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@preapexis/piexis)
 
 ## My toolkit
