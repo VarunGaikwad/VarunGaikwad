@@ -25,7 +25,7 @@ I use **AI-assisted coding** to explore solutions, write and refine code, and de
 - **Collaborate** — Share ideas, communicate clearly, and build better together.
 - **Work with AI** — Combine prompt engineering and AI-assisted development with hands-on coding.
 
-## Featured project
+## Featured projects
 
 ### 🌤️ Skycast
 
@@ -35,6 +35,26 @@ A responsive weather dashboard with city search, location-based forecasts, hourl
 
 [![Source code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunGaikwad/sky-cast)
 [![Live demo](https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://sky-cast-six.vercel.app)
+
+### 🔴 Pokédex
+
+A Pokémon field guide with search by name or number, type and generation filters, and shiny artwork.
+
+[![Live demo](https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://pokedex-beta-flame-95.vercel.app/)
+
+### 🧩 FavvyVision
+
+A favicon API that fetches icons by domain through a simple GET request, using Google and DuckDuckGo as sources.
+
+**Built with:** Node.js · Express
+
+[![Live demo](https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://favvyvision.vercel.app/)
+
+### 📦 Piexis
+
+Extensions, skills, prompts, and themes for pi.
+
+[![npm package](https://img.shields.io/badge/npm_Package-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@preapexis/piexis)
 
 ## My toolkit
 
