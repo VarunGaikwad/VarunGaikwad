@@ -1,0 +1,26 @@
+
+{
+  "$schema": "https://raw.githubusercontent.com/VarunGaikwad/piexis/main/schemas/agent.schema.json",
+  "model": "openai-codex/gpt-6.1-sol",
+  "small_model": "openai-codex/gpt-6-luna",
+  "subagent_model": "openai-codex/gpt-6.1-sol",
+  "delegate_exploration": true,
+  "auto_profile": true,
+  "subagent_variant_overrides": {
+    "plan": {
+      "effort": "high"
+    },
+    "orchestrator": {
+      "effort": "high"
+    },
+    "debug": {
+      "effort": "high"
+    },
+    "ask": {
+      "effort": "low"
+    },
+    "code": {
+      "effort": "medium"
+    }
+  }
+}
