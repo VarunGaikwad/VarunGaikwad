@@ -52,6 +52,13 @@ A favicon API that fetches icons by domain through a simple GET request, using G
 [![Source code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunGaikwad/favvyvision)
 [![Live demo](https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://favvyvision.vercel.app/)
 
+### 🖼️ Image Resizer
+
+A web app for resizing images.
+
+[![Source code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunGaikwad/image-resizer)
+[![Live demo](https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white)](https://image-resizer-drab-one.vercel.app/)
+
 ### 📦 Piexis
 
 Extensions, skills, prompts, and themes for pi.
