@@ -1,79 +1,66 @@
 <div align="center">
 
-**CODE · CREATE · SIMPLIFY**
+# Varun Gaikwad
 
-# Hey, I'm Varun Gaikwad 👋
+**Full-Stack Web Developer · Prompt Engineer**
 
-### Full-Stack Web Developer & Prompt Engineer
+I build responsive web applications and practical developer tools.<br>
+Focused on clear interfaces, maintainable code, and thoughtful user experiences.
 
-Building thoughtful web experiences.<br>
-Turning complex problems into simple, useful software.
+[LinkedIn](https://www.linkedin.com/in/varun-gaikwad) · [Email](mailto:gaikwadvarun23@gmail.com) · [GitHub](https://github.com/VarunGaikwad) · [Instagram](https://instagram.com/preapexis)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-gaikwad)
-[![Email](https://img.shields.io/badge/Email-Say_hello-0D9488?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwadvarun23@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/preapexis)
-
-[About](#about-me) · [Projects](#selected-projects) · [Toolkit](#my-toolkit) · [Let's connect](#lets-connect)
+[About](#about) · [Selected projects](#selected-projects) · [Technical toolkit](#technical-toolkit) · [Contact](#contact)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I build across the stack with **JavaScript, TypeScript, React, Angular, and Node.js**, with a focus on responsive interfaces, performance, and a thoughtful user experience.
+I'm a full-stack developer working with **JavaScript, TypeScript, React, Angular, and Node.js**. I enjoy turning complex requirements into straightforward, useful software—from everyday web applications to tools that improve the development workflow.
 
-I also bring **prompt engineering and AI-assisted development** into my workflow—using clear, structured prompts to explore solutions, refine code, and debug applications alongside hands-on coding.
-
-- **Thoughtful interfaces** — Responsive, user-friendly experiences that make the web easier to use.
-- **Practical solutions** — Less complexity, better performance, and code that solves real problems.
-- **Better together** — Clear communication, shared ideas, and collaborative development.
+My approach combines hands-on engineering with **prompt engineering and AI-assisted development** to explore ideas, refine implementations, and debug problems. I value responsive design, performance, and clear communication throughout the process.
 
 ## Selected projects
 
-A few things I've been building—from everyday web tools to developer tooling.
+### [Almond](https://github.com/VarunGaikwad/almond)
 
-| Project | What it does | Explore |
+An offline-first personal finance app for tracking income, expenses, accounts, and budgets, with reporting and local data storage. An evolving project, not a production-ready financial service.
+
+**Next.js · React · TypeScript · Dexie · Drizzle · PostgreSQL**<br>
+[View source](https://github.com/VarunGaikwad/almond) · [Live app ↗](https://almond-lilac.vercel.app/)
+
+### [Skycast](https://github.com/VarunGaikwad/sky-cast)
+
+A responsive weather dashboard with city search, location-based forecasts, hourly trends, and a seven-day outlook.
+
+**Next.js · React · TypeScript · Open-Meteo**<br>
+[View source](https://github.com/VarunGaikwad/sky-cast) · [Live app ↗](https://sky-cast-six.vercel.app)
+
+### More projects
+
+| Project | Overview | Links |
 | :--- | :--- | :--- |
-| **🌤️ Skycast** | A responsive weather dashboard with city search, location-based forecasts, hourly trends, and a seven-day outlook.<br><sub>Next.js · React · TypeScript · Open-Meteo</sub> | [Code](https://github.com/VarunGaikwad/sky-cast) · [Live ↗](https://sky-cast-six.vercel.app) |
-| **🔴 Pokédex** | A Pokémon field guide with search by name or number, type and generation filters, and shiny artwork. | [Code](https://github.com/VarunGaikwad/pokedex) · [Live ↗](https://pokedex-beta-flame-95.vercel.app/) |
-| **🧩 FavvyVision** | A favicon API that fetches icons by domain with a simple GET request, using Google and DuckDuckGo as sources.<br><sub>Node.js · Express</sub> | [Code](https://github.com/VarunGaikwad/favvyvision) · [Live ↗](https://favvyvision.vercel.app/) |
-| **🖼️ Image Resizer** | A focused web app for resizing images. | [Code](https://github.com/VarunGaikwad/image-resizer) · [Live ↗](https://image-resizer-drab-one.vercel.app/) |
-| **📦 Piexis** | Extensions, skills, prompts, and themes for pi. | [Code](https://github.com/VarunGaikwad/piexis) · [npm ↗](https://www.npmjs.com/package/@preapexis/piexis) |
+| **Pokédex** | A Pokémon field guide with search by name or number, type and generation filters, and shiny artwork. | [Source](https://github.com/VarunGaikwad/pokedex) · [Live app ↗](https://pokedex-beta-flame-95.vercel.app/) |
+| **FavvyVision** | A favicon API that retrieves icons by domain through a simple GET request, using Google and DuckDuckGo as sources. Built with Node.js and Express. | [Source](https://github.com/VarunGaikwad/favvyvision) · [Live app ↗](https://favvyvision.vercel.app/) |
+| **Image Resizer** | A focused web app for resizing images. | [Source](https://github.com/VarunGaikwad/image-resizer) · [Live app ↗](https://image-resizer-drab-one.vercel.app/) |
+| **Piexis** | Extensions, skills, prompts, and themes for pi. | [Source](https://github.com/VarunGaikwad/piexis) · [npm ↗](https://www.npmjs.com/package/@preapexis/piexis) |
 
-**[Explore all my repositories →](https://github.com/VarunGaikwad?tab=repositories)**
+[**Explore all repositories →**](https://github.com/VarunGaikwad?tab=repositories)
 
-## My toolkit
+## Technical toolkit
 
-### Web development
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, SQL, Dart, Rust |
+| **Frontend** | React, Angular |
+| **Backend** | Node.js |
+| **Cross-platform** | Flutter |
+| **Tools** | VS Code, GitHub, Figma |
+| **Workflow** | Prompt engineering, AI-assisted development |
 
-![JavaScript, TypeScript, React, Angular, and Node.js](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs&perline=5)
+## Contact
 
-**JavaScript · TypeScript · React · Angular · Node.js · SQL**
+Interested in collaborating or discussing a project? I'd be happy to connect.
 
-### Beyond the web
-
-![Dart, Flutter, and Rust](https://skillicons.dev/icons?i=dart,flutter,rust&perline=3)
-
-**Dart · Flutter · Rust**
-
-### Everyday tools
-
-![Visual Studio Code, GitHub, and Figma](https://skillicons.dev/icons?i=vscode,github,figma&perline=3)
-
-**VS Code · GitHub · Figma**
-
----
-
-<div align="center">
-
-<h2 id="lets-connect">Let's connect</h2>
-
-Have an idea, a question, or something you'd like to build together?<br>
-I'm always happy to exchange ideas and explore opportunities to collaborate.
-
-**[Say hello →](mailto:gaikwadvarun23@gmail.com)**
-
-<sub>Thoughtful interfaces. Practical solutions. Better together.</sub>
-
-</div>
+**[Email me](mailto:gaikwadvarun23@gmail.com)** · [Connect on LinkedIn](https://www.linkedin.com/in/varun-gaikwad)
