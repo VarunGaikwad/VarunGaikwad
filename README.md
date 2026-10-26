@@ -2,16 +2,11 @@
 
 # Varun Gaikwad
 
-**Full-Stack Web Developer · Prompt Engineer**
+**Full-stack developer · TypeScript, React, Next.js, Node.js**
 
-I build responsive web applications and practical developer tools.<br>
-Focused on clear interfaces, maintainable code, and thoughtful user experiences.
+I build web apps and developer tools, and publish tooling for the Pi coding agent on npm.
 
-<sub><img src="https://portfolio-drab-nine-70.vercel.app/icon-192.png" width="20" height="20" alt=""></sub> **[Explore my portfolio ↗](https://portfolio-drab-nine-70.vercel.app/#about)**
-
-[LinkedIn](https://www.linkedin.com/in/varun-gaikwad) · [Email](mailto:gaikwadvarun23@gmail.com) · [GitHub](https://github.com/VarunGaikwad) · [Instagram](https://instagram.com/preapexis)
-
-[About](#about) · [Selected projects](#selected-projects) · [Technical toolkit](#technical-toolkit) · [Contact](#contact)
+[Portfolio](https://portfolio-drab-nine-70.vercel.app/#about) · [LinkedIn](https://www.linkedin.com/in/varun-gaikwad) · [Email](mailto:gaikwadvarun23@gmail.com)
 
 </div>
 
@@ -19,50 +14,79 @@ Focused on clear interfaces, maintainable code, and thoughtful user experiences.
 
 ## About
 
-I'm a full-stack developer working with **JavaScript, TypeScript, React, Angular, and Node.js**. I enjoy turning complex requirements into straightforward, useful software—from everyday web applications to tools that improve the development workflow.
+Full-stack developer working mainly in **TypeScript, React, Next.js, and Node.js**, with PostgreSQL on the back end. My projects range from an offline-first finance app to a small production-minded API.
 
-My approach combines hands-on engineering with **prompt engineering and AI-assisted development** to explore ideas, refine implementations, and debug problems. I value responsive design, performance, and clear communication throughout the process.
+I use AI-assisted development in my daily workflow, and I build for it too: [Piexis](https://github.com/VarunGaikwad/piexis) is a package of agent profiles, prompts, and terminal UI for the Pi coding agent.
 
-## Selected projects
+## Projects
 
-### <sub><img src="https://almond-lilac.vercel.app/icon-192.png" width="20" height="20" alt=""></sub> [Almond](https://github.com/VarunGaikwad/almond)
+### [Piexis](https://github.com/VarunGaikwad/piexis)
 
-An offline-first personal finance app for tracking income, expenses, accounts, and budgets, with reporting and local data storage. An evolving project, not a production-ready financial service.
+A package for the Pi coding agent: an interactive question UI, agent profiles with subagent delegation, a status footer, prompts, themes, and curated skills. Published on npm under the MIT license.
 
-**Next.js · React · TypeScript · Dexie · Drizzle · PostgreSQL**<br>
-[View source](https://github.com/VarunGaikwad/almond) · [Live app ↗](https://almond-lilac.vercel.app/)
+```sh
+pi install npm:@preapexis/piexis
+```
 
-### <sub><img src="https://sky-cast-six.vercel.app/favicon.ico" width="20" height="20" alt=""></sub> [Skycast](https://github.com/VarunGaikwad/sky-cast)
+**TypeScript · Node.js · npm** · [Source](https://github.com/VarunGaikwad/piexis) · [npm ↗](https://www.npmjs.com/package/@preapexis/piexis)
 
-A responsive weather dashboard with city search, location-based forecasts, hourly trends, and a seven-day outlook.
+### [Almond](https://github.com/VarunGaikwad/almond)
 
-**Next.js · React · TypeScript · Open-Meteo**<br>
-[View source](https://github.com/VarunGaikwad/sky-cast) · [Live app ↗](https://sky-cast-six.vercel.app)
+An offline-first personal finance PWA inspired by Cashew. Multi-currency (USD, JPY, INR) using integer minor units and frozen exchange-rate snapshots, with sync and explicit conflict resolution built on Better Auth, Drizzle, and Neon PostgreSQL.
 
-### More projects
+Work in progress: partial feature parity, and end-to-end sync is not yet verified. Not a production financial service.
 
-| Project | Overview | Links |
+**Next.js · React · TypeScript · Dexie · Drizzle · PostgreSQL** · [Source](https://github.com/VarunGaikwad/almond) · [Live app ↗](https://almond-lilac.vercel.app/) (sign-up required)
+
+### [FavvyVision](https://github.com/VarunGaikwad/favvyvision)
+
+A favicon API with strict hostname validation, a bounded in-memory cache, request coalescing, timeouts, and in-flight limits. Fetches from Google and DuckDuckGo.
+
+```sh
+curl 'https://favvyvision.vercel.app/favicon?domain=github.com' -o favicon.ico
+```
+
+**Node.js · Express** · [Source](https://github.com/VarunGaikwad/favvyvision) · [Live demo ↗](https://favvyvision.vercel.app/)
+
+### Smaller projects
+
+| Project | What it does | Links |
 | :--- | :--- | :--- |
-| <sub><img src="https://pokedex-beta-flame-95.vercel.app/images/logo.png" width="20" height="20" alt=""></sub> **Pokédex** | A Pokémon field guide with search by name or number, type and generation filters, and shiny artwork. | [Source](https://github.com/VarunGaikwad/pokedex) · [Live app ↗](https://pokedex-beta-flame-95.vercel.app/) |
-| **FavvyVision** | A favicon API that retrieves icons by domain through a simple GET request, using Google and DuckDuckGo as sources. Built with Node.js and Express. | [Source](https://github.com/VarunGaikwad/favvyvision) · [Live app ↗](https://favvyvision.vercel.app/) |
-| <sub><img src="https://image-resizer-drab-one.vercel.app/assets/icon-32x32.png" width="20" height="20" alt=""></sub> **Image Resizer** | A focused web app for resizing images. | [Source](https://github.com/VarunGaikwad/image-resizer) · [Live app ↗](https://image-resizer-drab-one.vercel.app/) |
-| **Piexis** | Extensions, skills, prompts, and themes for pi. | [Source](https://github.com/VarunGaikwad/piexis) · [npm ↗](https://www.npmjs.com/package/@preapexis/piexis) |
+| **Image Resizer** | Turns one image into a full icon set for mobile, web, desktop, and wearables. PNG, JPEG, and WebP, center-cropped squares, no upscaling. | [Source](https://github.com/VarunGaikwad/image-resizer) · [Live ↗](https://image-resizer-drab-one.vercel.app/) |
+| **Skycast** | Weather dashboard with city search, geolocation, hourly trends, and a 7-day forecast. Next.js, Tailwind CSS, Open-Meteo. | [Source](https://github.com/VarunGaikwad/sky-cast) · [Live ↗](https://sky-cast-six.vercel.app) |
+| **Pokédex** | All 1,025 Pokémon with search by name or number, type and generation filters, and shiny artwork. Next.js, PokéAPI. | [Source](https://github.com/VarunGaikwad/pokedex) · [Live ↗](https://pokedex-beta-flame-95.vercel.app/) |
 
-[**Explore all repositories →**](https://github.com/VarunGaikwad?tab=repositories)
+## Toolkit
 
-## Technical toolkit
+**Daily**
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript, TypeScript, SQL, Dart, Rust |
-| **Frontend** | React, Angular |
-| **Backend** | Node.js |
-| **Cross-platform** | Flutter |
-| **Tools** | VS Code, GitHub, Figma |
-| **Workflow** | Prompt engineering, AI-assisted development |
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,tailwind&theme=light">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,tailwind&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, Tailwind CSS">
+</picture>
 
-## Contact
+Plus SQL, Dexie, and Drizzle ORM.
 
-Interested in collaborating or discussing a project? I'd be happy to connect.
+**Also used**
 
-**[Email me](mailto:gaikwadvarun23@gmail.com)** · [Connect on LinkedIn](https://www.linkedin.com/in/varun-gaikwad)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=angular,flutter,dart,rust,figma&theme=light">
+  <img src="https://skillicons.dev/icons?i=angular,flutter,dart,rust,figma&theme=dark" alt="Angular, Flutter, Dart, Rust, Figma">
+</picture>
+
+**Tools**
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,git,github,vercel,npm&theme=light">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,npm&theme=dark" alt="VS Code, Git, GitHub, Vercel, npm">
+</picture>
+
+**Workflow:** AI-assisted development, prompt and agent-profile design
+
+---
+
+<div align="center">
+
+Open to collaboration and project discussions. [Email](mailto:gaikwadvarun23@gmail.com) is the fastest way to reach me.
+
+</div>
