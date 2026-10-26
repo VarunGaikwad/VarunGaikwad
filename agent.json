@@ -1,25 +1,31 @@
+
 {
   "$schema": "https://raw.githubusercontent.com/VarunGaikwad/piexis/main/schemas/agent.schema.json",
-  "model": "openai-codex/gpt-6.1-sol",
+  "model": "openai-codex/gpt-6-astra",
   "small_model": "openai-codex/gpt-6-luna",
   "subagent_model": "openai-codex/gpt-6.1-sol",
   "delegate_exploration": true,
   "auto_profile": true,
   "subagent_variant_overrides": {
     "plan": {
-      "effort": "high"
+      "model": "openai-codex/gpt-6-astra",
+      "effort": "xhigh"
     },
     "orchestrator": {
+      "model": "openai-codex/gpt-6-astra",
       "effort": "high"
     },
     "debug": {
-      "effort": "high"
+      "model": "openai-codex/gpt-6-astra",
+      "effort": "xhigh"
     },
     "ask": {
+      "model": "openai-codex/gpt-6.1-sol",
       "effort": "low"
     },
     "code": {
-      "effort": "medium"
+      "model": "openai-codex/gpt-6-astra",
+      "effort": "high"
     }
   }
 }
