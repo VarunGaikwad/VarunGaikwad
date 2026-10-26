@@ -7,7 +7,7 @@
 I build responsive web applications and practical developer tools.<br>
 Focused on clear interfaces, maintainable code, and thoughtful user experiences.
 
-<img src="https://portfolio-drab-nine-70.vercel.app/icon-192.png" width="20" height="20" align="middle" alt=""> **[Explore my portfolio ↗](https://portfolio-drab-nine-70.vercel.app/#about)**
+<sub><img src="https://portfolio-drab-nine-70.vercel.app/icon-192.png" width="20" height="20" alt=""></sub> **[Explore my portfolio ↗](https://portfolio-drab-nine-70.vercel.app/#about)**
 
 [LinkedIn](https://www.linkedin.com/in/varun-gaikwad) · [Email](mailto:gaikwadvarun23@gmail.com) · [GitHub](https://github.com/VarunGaikwad) · [Instagram](https://instagram.com/preapexis)
 
@@ -25,14 +25,14 @@ My approach combines hands-on engineering with **prompt engineering and AI-assis
 
 ## Selected projects
 
-### <img src="https://almond-lilac.vercel.app/icon-192.png" width="20" height="20" align="middle" alt=""> [Almond](https://github.com/VarunGaikwad/almond)
+### <sub><img src="https://almond-lilac.vercel.app/icon-192.png" width="20" height="20" alt=""></sub> [Almond](https://github.com/VarunGaikwad/almond)
 
 An offline-first personal finance app for tracking income, expenses, accounts, and budgets, with reporting and local data storage. An evolving project, not a production-ready financial service.
 
 **Next.js · React · TypeScript · Dexie · Drizzle · PostgreSQL**<br>
 [View source](https://github.com/VarunGaikwad/almond) · [Live app ↗](https://almond-lilac.vercel.app/)
 
-### <img src="https://sky-cast-six.vercel.app/favicon.ico" width="20" height="20" align="middle" alt=""> [Skycast](https://github.com/VarunGaikwad/sky-cast)
+### <sub><img src="https://sky-cast-six.vercel.app/favicon.ico" width="20" height="20" alt=""></sub> [Skycast](https://github.com/VarunGaikwad/sky-cast)
 
 A responsive weather dashboard with city search, location-based forecasts, hourly trends, and a seven-day outlook.
 
@@ -43,9 +43,9 @@ A responsive weather dashboard with city search, location-based forecasts, hourl
 
 | Project | Overview | Links |
 | :--- | :--- | :--- |
-| <img src="https://pokedex-beta-flame-95.vercel.app/images/logo.png" width="20" height="20" align="middle" alt=""> **Pokédex** | A Pokémon field guide with search by name or number, type and generation filters, and shiny artwork. | [Source](https://github.com/VarunGaikwad/pokedex) · [Live app ↗](https://pokedex-beta-flame-95.vercel.app/) |
+| <sub><img src="https://pokedex-beta-flame-95.vercel.app/images/logo.png" width="20" height="20" alt=""></sub> **Pokédex** | A Pokémon field guide with search by name or number, type and generation filters, and shiny artwork. | [Source](https://github.com/VarunGaikwad/pokedex) · [Live app ↗](https://pokedex-beta-flame-95.vercel.app/) |
 | **FavvyVision** | A favicon API that retrieves icons by domain through a simple GET request, using Google and DuckDuckGo as sources. Built with Node.js and Express. | [Source](https://github.com/VarunGaikwad/favvyvision) · [Live app ↗](https://favvyvision.vercel.app/) |
-| <img src="https://image-resizer-drab-one.vercel.app/assets/icon-32x32.png" width="20" height="20" align="middle" alt=""> **Image Resizer** | A focused web app for resizing images. | [Source](https://github.com/VarunGaikwad/image-resizer) · [Live app ↗](https://image-resizer-drab-one.vercel.app/) |
+| <sub><img src="https://image-resizer-drab-one.vercel.app/assets/icon-32x32.png" width="20" height="20" alt=""></sub> **Image Resizer** | A focused web app for resizing images. | [Source](https://github.com/VarunGaikwad/image-resizer) · [Live app ↗](https://image-resizer-drab-one.vercel.app/) |
 | **Piexis** | Extensions, skills, prompts, and themes for pi. | [Source](https://github.com/VarunGaikwad/piexis) · [npm ↗](https://www.npmjs.com/package/@preapexis/piexis) |
 
 [**Explore all repositories →**](https://github.com/VarunGaikwad?tab=repositories)
