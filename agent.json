@@ -1,4 +1,3 @@
-
 {
   "$schema": "https://raw.githubusercontent.com/VarunGaikwad/piexis/main/schemas/agent.schema.json",
   "model": "openai-codex/gpt-6-astra",
