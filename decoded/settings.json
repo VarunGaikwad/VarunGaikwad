@@ -1,0 +1,241 @@
+// PreApeXis Agentic — calm, dense terminal-first profile
+{
+  // Appearance and layout
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.iconTheme": "symbols",
+  "catppuccin.accentColor": "mauve",
+  "catppuccin.workbenchMode": "flat",
+  "catppuccin.bracketMode": "rainbow",
+  "catppuccin.italicComments": true,
+  "catppuccin.boldKeywords": false,
+  "workbench.startupEditor": "none",
+  "workbench.list.smoothScrolling": true,
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "top",
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.closeOnFileDelete": false,
+  "workbench.editor.wrapTabs": false,
+  "workbench.panel.defaultLocation": "bottom",
+  "workbench.panel.opensMaximized": "never",
+  "explorer.compactFolders": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, bun.lock",
+    "pubspec.yaml": "pubspec.lock, pubspec_overrides.yaml, .packages, .flutter-plugins, .flutter-plugins-dependencies, .metadata",
+    "*.dart": "${capture}.g.dart",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  },
+  "breadcrumbs.enabled": true,
+
+  // Editor
+  "editor.fontFamily": "'JetBrainsMono Nerd Font', 'JetBrains Mono', 'Cascadia Code', monospace",
+  "editor.fontSize": 15,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 1.4,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 100,
+  "editor.hover.delay": 500,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.renderLineHighlight": "gutter",
+  "editor.linkedEditing": true,
+  "editor.suggestSelection": "first",
+  "editor.acceptSuggestionOnEnter": "smart",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "selection",
+  "editor.scrollbar.vertical": "auto",
+  "editor.stickyScroll.enabled": true,
+  "editor.stickyScroll.maxLineCount": 5,
+  "editor.inlayHints.enabled": "onUnlessPressed",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+
+  // Terminal: editor area maximizes rows and keeps TUI sessions beside code
+  "terminal.integrated.defaultLocation": "editor",
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', 'JetBrains Mono', 'Cascadia Code', monospace",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.lineHeight": 1.1,
+  "terminal.integrated.customGlyphs": true,
+  "terminal.integrated.minimumContrastRatio": 1,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.scrollback": 50000,
+  "terminal.integrated.shellIntegration.enabled": true,
+  "terminal.integrated.enablePersistentSessions": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Claude Code": {
+      "source": "PowerShell",
+      "args": ["-NoLogo", "-NoExit", "-Command", "claude"],
+      "icon": "hubot",
+      "color": "terminal.ansiMagenta"
+    },
+    "Codex CLI": {
+      "source": "PowerShell",
+      "args": ["-NoLogo", "-NoExit", "-Command", "codex"],
+      "icon": "sparkle",
+      "color": "terminal.ansiGreen"
+    },
+    "pi": {
+      "source": "PowerShell",
+      "args": ["-NoLogo", "-NoExit", "-Command", "pi"],
+      "icon": "terminal",
+      "color": "terminal.ansiBlue"
+    }
+  },
+
+  // Files and external-agent churn
+  "files.autoSave": "onFocusChange",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/.dart_tool": true,
+    "**/.flutter-plugins": true,
+    "**/.flutter-plugins-dependencies": true,
+    "**/.metadata": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/build": true,
+    "**/.dart_tool": true,
+    "**/.claude/worktrees": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/dist/**": true,
+    "**/build/**": true,
+    "**/.dart_tool/**": true
+  },
+  "search.useGlobalIgnoreFiles": true,
+
+  // Review and diagnostics
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "scm.defaultViewMode": "tree",
+  "git.decorations.enabled": true,
+  "gitlens.currentLine.enabled": false,
+  "errorLens.enabled": true,
+  "errorLens.enabledDiagnosticLevels": ["error", "warning"],
+  "errorLens.statusBarMessageEnabled": false,
+
+  // Language tooling and formatters (intentionally retained)
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.rulers": [100],
+    "editor.codeActionsOnSave": {"source.fixAll.eslint": "explicit"}
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {"source.fixAll.eslint": "explicit"}
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.rulers": [100],
+    "editor.codeActionsOnSave": {"source.fixAll.eslint": "explicit"}
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {"source.fixAll.eslint": "explicit"}
+  },
+  "[json]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[jsonc]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[html]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[css]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[tailwindcss]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[prisma]": {"editor.defaultFormatter": "Prisma.prisma"},
+  "[github-actions-workflow]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.trimTrailingWhitespace": false
+  },
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "dart.showInspectorNotificationsForWidgetErrors": false,
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "js/ts.updateImportsOnFileMove.enabled": "always",
+  "js/ts.preferences.importModuleSpecifier": "relative",
+  "js/ts.inlayHints.parameterNames.enabled": "literals",
+  "notebook.formatOnSave.enabled": true,
+  "prettier.requireConfig": true,
+
+  // UI-only guardrails (do not constrain CLI agents)
+  "git.allowForcePush": false,
+  "git.branchProtection": ["main", "master"],
+  "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
+  "chat.agent.maxRequests": 50,
+  "chat.tools.terminal.autoApprove": {
+    "git status": true,
+    "git diff": true,
+    "git log": true,
+    "npm test": true,
+    "npm run lint": true,
+    "git push": false,
+    "rm": false
+  },
+
+  // Misc / tooling
+  "git.confirmSync": true,
+  "git.enableSmartCommit": false,
+  "git.autofetch": true,
+  "git.openRepositoryInParentFolders": "prompt",
+  "remote.autoForwardPortsSource": "hybrid",
+  "security.workspace.trust.enabled": true,
+  "telemetry.telemetryLevel": "off",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "rest-client.largeResponseBodySizeLimitInMB": 10,
+  "rest-client.disableAddingHrefLinkForLargeResponse": false,
+  "json.schemaDownload.trustedDomains": {
+    "https://developer.microsoft.com/json-schemas/": true,
+    "https://json-schema.org/": true,
+    "https://json.schemastore.org/": true,
+    "https://raw.githubusercontent.com/devcontainers/spec/": true,
+    "https://raw.githubusercontent.com/microsoft/vscode/": true,
+    "https://schemastore.azurewebsites.net/": true,
+    "https://www.schemastore.org/": true
+  }
+}

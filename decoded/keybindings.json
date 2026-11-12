@@ -1,0 +1,30 @@
+[
+  {
+    "key": "ctrl+shift+s",
+    "command": "-workbench.action.files.saveAs"
+  },
+  {
+    "key": "cmd+shift+s",
+    "command": "-workbench.action.files.saveAs"
+  },
+  {
+    "key": "ctrl+shift+s",
+    "command": "workbench.action.files.saveFiles",
+    "when": "!isMac"
+  },
+  {
+    "key": "cmd+shift+s",
+    "command": "workbench.action.files.saveFiles",
+    "when": "isMac"
+  },
+  {
+    "key": "ctrl+shift+3",
+    "command": "workbench.action.files.saveAs",
+    "when": "!isMac"
+  },
+  {
+    "key": "cmd+alt+shift+s",
+    "command": "workbench.action.files.saveAs",
+    "when": "isMac"
+  }
+]
